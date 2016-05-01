@@ -1,0 +1,25 @@
+{
+  "name": "GCerrajeria",
+  "homepage": "https://github.com/JhonDanielGonzalez/GCerrajeria",
+  "description": "Portal Del Cerrajero",
+  "main": "index.html",
+  "keywords": [
+    "Cerrajeria",
+    "en",
+    "general"
+  ],
+  "authors": [
+    "Jhon Daniel Gonzalez - jdgonzalez366@misena.edu.co"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
